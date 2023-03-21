@@ -1,0 +1,12 @@
+C:\Users\Zeek\source\repos\Login_Calculator\bin\Release\Login_Calculator.exe.config
+C:\Users\Zeek\source\repos\Login_Calculator\bin\Release\Login_Calculator.exe
+C:\Users\Zeek\source\repos\Login_Calculator\bin\Release\Login_Calculator.pdb
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.Calcul.resources
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.Form1.resources
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.Properties.Resources.resources
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.csproj.GenerateResource.cache
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.exe
+C:\Users\Zeek\source\repos\Login_Calculator\obj\Release\Login_Calculator.pdb
