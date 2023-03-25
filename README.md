@@ -23,4 +23,4 @@ WinForm으로 만든 로그인 계산기입니다.
 ![Cal_error1](https://user-images.githubusercontent.com/122774092/226606008-35330cc7-0a26-45c9-af73-dea948c3dad7.JPG)
 
 
-2\. ~~DB에 연결하여 회원가입 기능도 추가할 예정~~ **WinForm_User_Management에서 구현완료**
+2\. ~~DB에 연결하여 회원가입 기능도 추가할 예정~~ **WinForm_User_Management에서 구현완료**<br><br><br>
