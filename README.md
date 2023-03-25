@@ -17,10 +17,10 @@ WinForm으로 만든 로그인 계산기입니다.
 
 ## 보완할점
 
-1\. ~~프로그램 종료시 백그라운드 프로세스에서 종료되지 않고 실행되는 문제가 있음~~ 해결완료
+1\. ~~프로그램 종료시 백그라운드 프로세스에서 종료되지 않고 실행되는 문제가 있음~~ **해결완료**
 
 
 ![Cal_error1](https://user-images.githubusercontent.com/122774092/226606008-35330cc7-0a26-45c9-af73-dea948c3dad7.JPG)
 
 
-2\. ~~DB에 연결하여 회원가입 기능도 추가할 예정~~ WinForm_User_Management에서 구현완료
+2\. ~~DB에 연결하여 회원가입 기능도 추가할 예정~~ **WinForm_User_Management에서 구현완료**
